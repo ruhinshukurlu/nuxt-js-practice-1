@@ -6,22 +6,18 @@
       <Logo />
       <h1 class="title">nuxt-practice-1</h1>
       <div class="links">
+        <h3>
+          Working on Dynamic Routing, Fetching data from API, Componenets | Props  
+        </h3>
         <a
-          href="https://nuxtjs.org/"
+          href="https://github.com/ruhinshukurlu/nuxt-js-practice-1"
           target="_blank"
           rel="noopener noreferrer"
           class="button--green"
         >
-          Documentation
+          Github Repostory for This Project
         </a>
-        <a
-          href="https://github.com/nuxt/nuxt.js"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="button--grey"
-        >
-          GitHub
-        </a>
+
       </div>
     </div>
   </div>
